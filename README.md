@@ -9,7 +9,7 @@ No Javascript necessary & it works seamlessly without any Streamlit quirks you m
 
 Demo: https://image-hover-tooltips.streamlit.app/
 
-```
+```python
 import streamlit as st
 
 # Function to display the image on hover
